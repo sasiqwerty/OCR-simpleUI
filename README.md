@@ -1,0 +1,2 @@
+# OCR-simpleUI
+OCR
