@@ -6,3 +6,5 @@
 - a telegram bot that talks to the website is easier to program and makes lesser calls to the main api?
 - what about using node to talk to the server?
 - well these are some of the ideas I have right now
+
+can you see this bobo???
